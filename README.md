@@ -45,21 +45,15 @@ For example, to fetch data from Kraken for the BTC/USD pair, you can run:
     
       
       python your_script_name.py
-![Screenshot 2024-12-19 072143](https://github.com/user-attachments/assets/d3737b76-d835-4858-b0ff-4d77367ea6e2)
-![Screenshot 2024-12-19 072212](https://github.com/user-attachments/assets/b06a2fe5-c755-492e-b4af-018ff98e2f0f)
-![Screenshot 2024-12-19 060921](https://github.com/user-attachments/assets/66cc4414-aeba-4f9a-877d-a6c9ea3f8e19)
-![Screenshot 2024-12-17 154736](https://github.com/user-attachments/assets/d8958d92-72f3-4789-8741-b208dcb72c58)
-![Screenshot 2024-12-17 160830](https://github.com/user-attachments/assets/c22027cd-1353-4f5d-8f60-52bf7895882c)
-![Screenshot 2024-12-17 194742](https://github.com/user-attachments/assets/26d8632b-79da-4703-ab39-5979c4272c9b)
-![Screenshot 2024-12-17 200858](https://github.com/user-attachments/assets/f0720326-718d-488e-9ce6-89d9fb51ee92)
-![Screenshot 2024-12-17 212049](https://github.com/user-attachments/assets/e0606e72-82ce-4984-abd4-93d69a6e6d6f)
-![Screenshot 2024-12-18 003704](https://github.com/user-attachments/assets/20d58f75-535e-4510-bebe-4f7fcde3f602)
-![Screenshot 2024-12-18 191308](https://github.com/user-attachments/assets/b4122330-6d15-4355-98ae-55f52c69fc4a)
 
-
-
-
-
-
+![Screenshot 2024-12-22 002443](https://github.com/user-attachments/assets/30d8b44d-5911-441e-852c-e3910bc4bc5b)
+![Screenshot 2024-12-22 002624](https://github.com/user-attachments/assets/ad6d4b9b-0768-4af8-8fd8-a9095ba08ee5)
+![Screenshot 2024-12-22 002721](https://github.com/user-attachments/assets/6f5b5f8d-2b88-44f4-ab59-3a6414f8d970)
+![Screenshot 2024-12-22 002811](https://github.com/user-attachments/assets/045bd778-ad07-49b3-87a8-4588d27e8058)
+![Screenshot 2024-12-22 002945](https://github.com/user-attachments/assets/7db4c04b-8627-47ba-960a-340ce685a96a)
+![Screenshot 2024-12-22 003005](https://github.com/user-attachments/assets/760b6d81-36ec-4d78-9974-36c59c952e1f)
+![Screenshot 2024-12-22 003153](https://github.com/user-attachments/assets/890a054e-6efd-40c9-aa8f-f55d29ae0bdf)
+![Screenshot 2024-12-22 003213](https://github.com/user-attachments/assets/7d2f1a4f-704f-4732-9957-983139d11e97)
+![Screenshot 2024-12-22 003241](https://github.com/user-attachments/assets/c80c255b-819a-4e86-b7ee-70323b4ae53f)
 
 
