@@ -37,7 +37,9 @@ To set up the project locally, follow these steps:
       ```bash
       pip install -r requirements.txt
     
-      python your_script_name.py
+6. Run the script:
+      ``` bash
+         python maica.py
 #
 Usage
 Once you've set up the project and installed all the dependencies, you can run the script to fetch and visualize cryptocurrency data.
