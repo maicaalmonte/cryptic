@@ -41,8 +41,8 @@ To set up the project locally, follow these steps:
       ``` bash
          python maica.py
 #
-Usage
-#
+**Usage**
+
 Once you've set up the project and installed all the dependencies, you can run the script to fetch and visualize cryptocurrency data.
 
 For example, to fetch data from Kraken for the BTC/USD pair, you can run:
